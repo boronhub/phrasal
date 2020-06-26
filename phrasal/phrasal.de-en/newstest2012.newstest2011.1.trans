@@ -1,0 +1,20 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f54f7d86d24, pid=260, tid=261
+#
+# JRE version: Java(TM) SE Runtime Environment 18.9 (11.0.7+8) (build 11.0.7+8-LTS)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM 18.9 (11.0.7+8-LTS, mixed mode, tiered, compressed oops, parallel gc, linux-amd64)
+# Problematic frame:
+# C  [libPhrasalKenLM.so+0x26d24]  Java_edu_stanford_nlp_mt_lm_KenLM_getOrder+0x4
+#
+# Core dump will be written. Default location: core.260 (may not exist)
+#
+# An error report file with more information is saved as:
+# /mnt/e/Dhruv/Projects_19-20/phrasal/phrasal/phrasal.de-en/hs_err_pid260.log
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugreport.java.com/bugreport/crash.jsp
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
